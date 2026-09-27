@@ -25,11 +25,13 @@
 </p>
 
 <p>
-  <a href="https://fsd-docs.vercel.app"><b>Documentation</b></a>
+  <a href="https://fsdcli.me"><b>Documentation</b></a>
   &nbsp; · &nbsp;
   <a href="#start-building"><b>Quick start</b></a>
   &nbsp; · &nbsp;
   <a href="#explore-the-ecosystem"><b>Repositories</b></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/sponsors/ashrafmo-1?frequency=one-time&amp;sponsor=ashrafmo-1"><b>Support</b></a>
   &nbsp; · &nbsp;
   <a href="https://github.com/FSD-CLI/cli/issues"><b>Feedback</b></a>
 </p>
@@ -356,6 +358,18 @@ For bug reports, include the command you ran, framework, Node.js version, packag
 
 </details>
 
+Support the project
+
+If FSD CLI helps you build, you can optionally support its ongoing development
+and documentation:
+
+- [GitHub Sponsors](https://github.com/sponsors/ashrafmo-1?frequency=one-time&sponsor=ashrafmo-1)
+- [Buy Me a Coffee](https://buymeacoffee.com/ashrafqopiah)
+- **InstaPay (Egypt):** `ashrafmo-1`
+
+For InstaPay, verify the recipient details in the app before confirming a
+transfer. Donations are optional.
+
 <div align="center">
 
 <p><b>A clear foundation for the next thing you build.</b></p>
@@ -366,9 +380,11 @@ For bug reports, include the command you ran, framework, Node.js version, packag
 </p>
 
 <p>
-  <a href="https://fsd-docs.vercel.app">Get started</a>
+  <a href="https://fsdcli.me">Get started</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/FSD-CLI/cli">Explore the CLI</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/sponsors/ashrafmo-1?frequency=one-time&amp;sponsor=ashrafmo-1">Support FSD CLI</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/FSD-CLI/cli/issues">Share feedback</a>
 </p>

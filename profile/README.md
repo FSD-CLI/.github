@@ -66,7 +66,7 @@ npx create-fsd-architecture@latest my-app
 
 Follow the prompts to choose your stack, install dependencies, and optionally start the development server.
 
-Requirements: Node.js 20+ for the CLI. Generated Nuxt and SvelteKit projects require Node.js 22.22.2+ according to the current CLI documentation; check your selected template's requirements before starting.
+Requirements: Node.js 22.12.0 or later for the CLI. Generated Nuxt and SvelteKit projects require Node.js 22.22.2+ according to the current CLI documentation; check your selected template's requirements before starting.
 
 <details>
 <summary><b>Prefer a repeatable, non-interactive setup?</b></summary>
